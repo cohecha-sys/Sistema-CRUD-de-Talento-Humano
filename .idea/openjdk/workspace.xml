@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="14685b63-6ba4-4b84-8a0a-08c0eed8eb97" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/openjdk/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/openjdk/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modelo/EmpleadoAdministrativo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/modelo/EmpleadoAdministrativo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modelo/RepositorioEmpleados.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/modelo/RepositorioEmpleados.java" afterDir="false" />
-    </list>
+    <list default="true" id="14685b63-6ba4-4b84-8a0a-08c0eed8eb97" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,7 +49,8 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "nodejs_package_manager_path": "npm"
+    "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "pProject Default"
   }
 }]]></component>
   <component name="RecentsManager">
