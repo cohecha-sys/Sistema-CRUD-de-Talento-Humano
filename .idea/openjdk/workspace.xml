@@ -3,9 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="14685b63-6ba4-4b84-8a0a-08c0eed8eb97" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/openjdk/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/openjdk/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/src/Modelo/EmpleadoBase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OpenJDK/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OpenJDK/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modelo/EmpleadoAdministrativo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/modelo/EmpleadoAdministrativo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modelo/RepositorioEmpleados.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/modelo/RepositorioEmpleados.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +58,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\GIT\Sistema-CRUD-de-Talento-Humano" />
       <recent name="C:\GIT\Sistema-CRUD-de-Talento-Humano\OpenJDK" />
       <recent name="C:\GIT\Sistema-CRUD-de-Talento-Humano\JDK" />
       <recent name="C:\GIT\Sistema-CRUD-de-Talento-Humano\.idea\openjdk" />
